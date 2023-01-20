@@ -135,8 +135,6 @@ So far we are in the stage of evaluation, research & PoCs.
 
 ## Future Plans
 
-Please include here
-
 - We are willing to apply to an RFP to maintain this work, updating it on API changes and continuing adding measured parameters and use cases.
 
 
